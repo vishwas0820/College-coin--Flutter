@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640197127838",
+    "project_id": "collegecoin",
+    "storage_bucket": "collegecoin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640197127838:android:6b6dc6ee6726b36b15958f",
+        "android_client_info": {
+          "package_name": "com.vini.collegecoin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQhW45Rf_yiESXnGyzeGSMZaiT8Nlb_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

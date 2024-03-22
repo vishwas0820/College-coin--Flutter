@@ -1,0 +1,9 @@
+const userIdField = 'userId';
+const walField='walletname';
+const amtField='amt';
+const limField='limit';
+const typeField='type';
+const dateField='date';
+const timeField='time';
+const exinField='expinc';
+const descField='desc';
